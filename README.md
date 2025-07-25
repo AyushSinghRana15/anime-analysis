@@ -1,2 +1,1 @@
-# health-app
-Health App for Hackathon
+#anime analysis and ml implimentation
